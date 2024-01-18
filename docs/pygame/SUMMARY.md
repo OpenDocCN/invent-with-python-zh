@@ -1,4 +1,4 @@
-+   [使用 Python 和 Pygame 制作游戏](mk-gm-py-pygm_00.md)
++   [使用 Python 和 Pygame 制作游戏](README.md)
 +   [第一章：安装 Python 和 Pygame](mk-gm-py-pygm_01.md)
 +   [第二章：Pygame 基础](mk-gm-py-pygm_02.md)
 +   [第三章：记忆迷题](mk-gm-py-pygm_03.md)
