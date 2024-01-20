@@ -6,3 +6,4 @@
 +   [Pygame 游戏制作指南](docs/pygame/README.md)
 +   [Scratch3 编程游乐园](docs/scratch3/README.md)
 +   [Python 小型项目大全](docs/smallproj/README.md)
++   [递归的递归之书](docs/recursion/README.md)
